@@ -1,2 +1,2 @@
-public class GND b   {
+public class GND {
 }
