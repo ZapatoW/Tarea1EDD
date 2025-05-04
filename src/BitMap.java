@@ -4,7 +4,7 @@ public class BitMap {
 
     public BitMap(int size) {
         this.size = size;
-        int ni = (int) Math.ceil(size / 32.0);
+        int ni = (int) Math.ceil(size / 32);
         b = new int[ni];
     }
 
